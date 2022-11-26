@@ -1,3 +1,5 @@
+This program is a simulation of the Game of Life. It contains three different modes: Classic, Doughnut, and Mirror. 
+
 1.Brynn McGovern
 
 2730579
